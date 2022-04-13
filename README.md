@@ -46,7 +46,7 @@ Over 30 UI/UX Interfaces for Flowers Delivery App design template powered by <a 
       <td><img src="https://d33wubrfki0l68.cloudfront.net/87f1d7a741b2b896af8adf3e39c5b34dc5a5b882/9146a/images/demo/flowersstore/flowers-store-design4.png" class="img-fluid rounded work-image" alt="design system, food delivery, app, ui, ux, uikit"></td> 
     </tr>
     <tr>
-      <td><img src="https://d33wubrfki0l68.cloudfront.net/0659bf5f8d1def1a54e8827973a6289c59ce06ae/efcc6/images/demo/flowersstore/flowers-store-design5.png.png" class="img-fluid rounded work-image" alt="design system, food delivery, app, ui, ux, uikit"></td> 
+      <td><img src="https://d33wubrfki0l68.cloudfront.net/0659bf5f8d1def1a54e8827973a6289c59ce06ae/efcc6/images/demo/flowersstore/flowers-store-design5.png" class="img-fluid rounded work-image" alt="design system, food delivery, app, ui, ux, uikit"></td> 
       <td><img src="https://d33wubrfki0l68.cloudfront.net/4c4883f46ad1294d1d1460b703b440a1c9728c34/210bb/images/demo/flowersstore/flowers-store-design11.png" class="img-fluid rounded work-image" alt="design system, food delivery, app, ui, ux, uikit"></td> 
       <td><img src="https://d33wubrfki0l68.cloudfront.net/81186fcb4b245c84aec41b52aaa758bc4880e53e/e8865/images/demo/flowersstore/flowers-store-design12.png" class="img-fluid rounded work-image" alt="design system, food delivery, app, ui, ux, uikit"></td> 
     </tr>
